@@ -1,0 +1,20 @@
+# generator info
+name: Spring Boot Rest Microservice
+group: atomist-project-templates
+artifact: spring-rest-service
+version: 3.1.1
+
+# backing git repo
+repo: n/a
+branch: n/a
+sha: n/a
+
+# parameter values
+project_name: todo-list
+artifact_id: todo-api
+group_id: com.danvalencia
+version: 0.0.1-SNAPSHOT
+description: Todo List
+root_package: com.danvalencia
+service_class_name: TodoService
+
