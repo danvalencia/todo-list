@@ -18,3 +18,18 @@ description: Todo List
 root_package: com.danvalencia
 service_class_name: TodoService
 
+####
+
+# editor info
+name: atomist-project-templates.spring-neo4j-editors.AddNeo
+group: atomist-project-templates
+artifact: spring-neo4j-editors
+version: 0.0.2
+
+# backing git repo
+repo: n/a
+branch: n/a
+sha: n/a
+
+# parameter values
+
